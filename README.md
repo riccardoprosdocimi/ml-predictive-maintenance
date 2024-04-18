@@ -1,5 +1,4 @@
 # 🛠️ Machine Learning for Predictive Failure in Industrial Machinery
----
 📋 **Features**
 - Utilizes the Microsoft Azure Predictive Maintenance dataset with 36,500 instances.
 - Implements logistic regression, MLP, RNN, LSTM, and GRU models using PyTorch.
