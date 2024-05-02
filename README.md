@@ -1,2 +1,2 @@
-# Machine Learning for Predictive Failure in Industrial Machinery
+# Predictive Maintenance AI System
 Please, see the [project report](Report.pdf).
